@@ -1,4 +1,4 @@
-# Frontend-Workshops
+# Frontend-Workshops-Boilerplate
 
 ### Frontend boilerplate
 Node.js boilerplate project using:
